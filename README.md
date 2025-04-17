@@ -22,7 +22,7 @@ Whether it's modeling magical scenes in Blender or animating ideas with code, I'
 
 ## 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Imane-Rezouali)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imane-rezouali-12551926b/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2BUTec2ESWyh9EKuuIB6iQ%3D%3D)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rezouali.imane@gmail.com)
 
 ---
