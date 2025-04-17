@@ -83,19 +83,5 @@ Whether it's modeling magical scenes in Blender or animating ideas with code, I'
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rezouali-imane&theme=rose&no-frame=true&margin-w=4" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rezouali-imane&icon=4&color=6" alt="visitor counter"/>
-</p>
-
----
-
 > 💖 _"Code with passion, create with purpose, and animate the dreams you dare to imagine."_  
 > — Imane Rezouali
