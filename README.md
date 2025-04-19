@@ -76,8 +76,6 @@ Whether it's modeling magical scenes in Blender or animating ideas with code, I'
 <div align="center">
   
 ![Imane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rezouali-imane&theme=rose_pine&hide_border=true)
-![Imane's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rezouali-imane&theme=rose_pine&hide_border=true)
-
 
 </div>
 
