@@ -2,7 +2,7 @@
 
 🎨 3D Artist • 👩‍💻 and Developer
 I turn code into art and imagination into animation.  
-From vivid scenes to functional systems, I blend logic with aesthetics — one line of code, one frame at a time.
+From vivid scenes to functional systems, I blend logic with aesthetics, one line of code, one frame at a time.
 
 ---
 
