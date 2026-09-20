@@ -14,7 +14,6 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/imane-rezouali-12551926"> <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=18181B"/> </a>
-
 <a href="mailto:rezouali.imane@gmail.com"> <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=18181B"/> </a>
 
 </div>
